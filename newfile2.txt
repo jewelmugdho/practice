@@ -1,0 +1,3 @@
+Hi this is newfile 2
+and this line is added:wq
+
